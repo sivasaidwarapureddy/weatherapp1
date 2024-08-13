@@ -1,8 +1,20 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Weather Website
 
-Currently, two official plugins are available:
+A simple and responsive weather website built using React that provides current weather information for any location. The site is deployed and hosted on Netlify.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- **Live Weather Data**: Fetches real-time weather information using a weather API.
+- **Search Functionality**: Users can search for weather updates by entering a city or location name.
+- **Netlify Hosting**: Deployed on Netlify with continuous integration.
+
+## Live Demo
+
+You can visit the live site here: https://astonishing-cranachan-267879.netlify.app/
+## Tech Stack
+
+- **React**: Front-end library used to build the user interface.
+- **OpenWeather API**: External API to fetch weather data.
+- **Netlify**: Hosting platform used to deploy the website.
+
