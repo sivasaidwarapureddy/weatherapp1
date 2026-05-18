@@ -11,7 +11,7 @@ A simple and responsive weather website built using React that provides current 
 
 ## Live Demo
 
-You can visit the live site here: https://astonishing-cranachan-267879.netlify.app/
+You can visit the live site here: [https://weatherapp1-nu.vercel.app/]
 ## Tech Stack
 
 - **React**: Front-end library used to build the user interface.
